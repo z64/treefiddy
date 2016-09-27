@@ -4,6 +4,10 @@ module TreeFiddy
       @client = Discord::Client.new(token: token, client_id: client_id)
     end
 
+    def client
+      @client
+    end
+
     def run!
       @client.run
     end
