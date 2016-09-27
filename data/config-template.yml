@@ -1,5 +1,5 @@
 ---
-# The bot's app ID
+# The bot's client ID
 client_id: 1234
 
 # The bot's token
