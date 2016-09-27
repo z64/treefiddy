@@ -1,0 +1,12 @@
+name: treefiddy
+version: 0.1.0
+
+authors:
+  - z64 <zachnowicki@gmail.com>
+
+license: MIT
+
+dependencies:
+  discordcr:
+    github: meew0/discordcr
+
