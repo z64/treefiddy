@@ -1,6 +1,6 @@
 ---
 # The bot's app ID
-application_id: 1234
+client_id: 1234
 
 # The bot's token
 token: abc123
